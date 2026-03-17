@@ -23,15 +23,19 @@ A modern, responsive e-commerce web application built with **React**, **Vite**, 
 ## 📸 Screenshots
 
 ### Product Showcase
-![Product Gallery](./src/assets/image11.jpg)
+![Product Gallery](./src/assets/11.jpg)
 
 ### Shopping Experience
-![Shopping Experience](./src/assets/image22.jpg)
+![Shopping Experience](./src/assets/22.jpg)
 
-### Featured Categories
-| Electronics | Fashion |
-|-------------|---------|
-| ![Electronics](./src/assets/electronics.png) | ![Fashion](./src/assets/fashion.png) |
+### Shopping Experience
+![Shopping Experience](./src/assets/33.jpg)
+
+### Shopping Experience
+![Shopping Experience](./src/assets/44.jpg)
+
+### Shopping Experience
+![Shopping Experience](./src/assets/55.jpg)
 
 ---
 
