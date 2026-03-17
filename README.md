@@ -23,19 +23,19 @@ A modern, responsive e-commerce web application built with **React**, **Vite**, 
 ## 📸 Screenshots
 
 ### Product Showcase
-![Product Gallery](./src/assets/11.jpg)
+![Product Gallery](./src/assets/11.png)
 
 ### Shopping Experience
-![Shopping Experience](./src/assets/22.jpg)
+![Shopping Experience](./src/assets/22.png)
 
 ### Shopping Experience
-![Shopping Experience](./src/assets/33.jpg)
+![Shopping Experience](./src/assets/33.png)
 
 ### Shopping Experience
-![Shopping Experience](./src/assets/44.jpg)
+![Shopping Experience](./src/assets/44.png)
 
 ### Shopping Experience
-![Shopping Experience](./src/assets/55.jpg)
+![Shopping Experience](./src/assets/55.png)
 
 ---
 
