@@ -246,15 +246,14 @@ This project is licensed under the **MIT License** - see the LICENSE file for de
 
 ## 👨‍💻 Author
 
-**Your Name** - [@yourhandle](https://github.com/yourhandle)
+**Your Name** - [NIkhil](https://github.com/Nikhil06052005)
 
 ---
 
 ## 📞 Contact & Support
 
-- 📧 Email: your.email@example.com
-- 💬 Issues: [GitHub Issues](https://github.com/yourusername/e-commerce/issues)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: nikhilkashyap09793000@gmail.com
+- 💬 Issues: [GitHub Issues](https://github.com/Nikhil06052005/e-commerce/issues)
 
 ---
 
